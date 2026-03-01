@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
-
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ## 📊 GitHub Stats
 
 ![Hazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazal676&show_icons=true&theme=tokyonight)
