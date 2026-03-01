@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Hazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazal676&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazal676&layout=compact&theme=tokyonight)
