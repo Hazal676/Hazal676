@@ -1,20 +1,10 @@
-## Hi there 👋
+# Hi, I'm Hazal 👋
 
-<!--
-**Hazal676/Hazal676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer  
+🚀 Interested in Web Development  
+🌱 Currently learning PHP & JavaScript  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
 
 ## 💻 Tech Stack
 
@@ -25,7 +15,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Hazal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazal676&show_icons=true&theme=tokyonight)
