@@ -1,8 +1,9 @@
 # Hi, I'm Hazal 👋
 
-💻 Junior Developer  
-🚀 Interested in Web Development  
-🌱 Currently learning PHP & JavaScript  
+💻 Junior Web Developer  
+🎓 High school student focused on software development  
+🚀 Interested in backend & web technologies  
+🌱 Currently improving my PHP & JavaScript skills  
 
 ---
 
